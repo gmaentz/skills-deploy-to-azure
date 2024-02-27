@@ -19,6 +19,10 @@ _Create two deployment workflows using GitHub Actions and Microsoft Azure._
   Define terms and link to docs.github.com.
 -->
 
+
+az login
+
+
 ## Step 2: Set up an Azure environment
 
 _Good job getting started :gear:_
